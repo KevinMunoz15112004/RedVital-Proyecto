@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# RedVital-Proyecto
+# RedVital-Proyecto
 
 # RedVital
 
