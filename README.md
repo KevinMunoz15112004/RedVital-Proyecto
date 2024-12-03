@@ -33,6 +33,9 @@ Esta sección explica cómo se utiliza un mapa interactivo en la plataforma, des
 ### **Sobre el Menú Hamburguesa Usando JS**
 En esta sección se describe cómo el menú hamburguesa, implementado con JavaScript, permite a los usuarios navegar de manera fácil y rápida por la página en dispositivos móviles y pantallas más pequeñas. Al hacer clic en el ícono de la hamburguesa, el menú se despliega y muestra opciones de navegación, optimizando el espacio en pantallas más reducidas.
 
+### **Acceso al sitio
+https://red-vital.netlify.app/
+
 ---
 
 *RedVital* es una plataforma que busca mejorar el acceso a servicios esenciales para las comunidades. ¡Conectando a las personas con lo que realmente importa!
