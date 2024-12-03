@@ -1,5 +1,8 @@
 # RedVital-Proyecto
 
+# Integrantes
+Kevin Muñoz, Josué Mejía, Edwin Sarango, Kevin Almeida, Cristian Tambaco, Mario Endara, Kevin Chacón
+
 # RedVital
 
 RedVital es una plataforma orientada a conectar a las personas de las comunidades con servicios esenciales como atención médica, educación, empleo y más. Esta plataforma proporciona un espacio donde los usuarios pueden encontrar información sobre servicios vitales en su área local y realizar interacciones para satisfacer sus necesidades.
